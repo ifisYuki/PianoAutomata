@@ -72,8 +72,8 @@ namespace extOSC.Examples
 
 			MessageStart ms = new MessageStart();
 			ms.command = "conn"; //握手
-			ms.id = this.ui_id;//UI编号
-			ms.server = this.server; //要连接的服务器名字
+			ms.id = this.ui_id;//我给UI起的名字
+			ms.server = this.server; //服务器的名字
 			ms.timestamp = timestampcount ++;
 
 			string json = JsonUtility.ToJson(ms, true);
