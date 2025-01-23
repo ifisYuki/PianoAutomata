@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extOSC", "extOSC.csproj", "{341b0a64-f739-8368-f87c-b31ea6d0a919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extOSC.Editor", "extOSC.Editor.csproj", "{e3912df4-9e35-1dad-e288-2154a15ddde3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341b0a64-f739-8368-f87c-b31ea6d0a919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341b0a64-f739-8368-f87c-b31ea6d0a919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e3912df4-9e35-1dad-e288-2154a15ddde3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e3912df4-9e35-1dad-e288-2154a15ddde3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
