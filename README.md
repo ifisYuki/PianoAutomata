@@ -6,3 +6,7 @@ PianoAutomata is a project that focuses on developing an automated system to pla
 
 
 ![Project Cover Image](cover/cover.jpg)
+
+![Interaction](cover/interaction.png)
+
+![System Architecture](cover/system_architecture.png)
