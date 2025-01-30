@@ -6,7 +6,7 @@ Course work for Intelligent Hardware and System Development, Jun 2023. For more 
 
 
 # Overview
-PianoAutomata is an automated system of piano-playing. The system utilizes a Raspberry Pi for interfacing with the piano keys, servo motors as actuators, and sensors to detect key presses and movements. The software components are primarily developed using Unity and the extOSC package for communication.
+PianoAutomata is an automated system of piano-playing. The system includes a Raspberry Pi for interfacing with the piano keys, servos as actuators, and sensors to detect key presses and movements. The software components are primarily developed using Unity and the extOSC package for communication.
 
 ![Interaction](cover/interaction.png)
 
